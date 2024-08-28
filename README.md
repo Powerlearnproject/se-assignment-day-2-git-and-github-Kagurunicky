@@ -1,4 +1,4 @@
-# se-day-2-git-and-github
+# se-day-2-git-and-github.
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 Version Control Fundamentals
 
